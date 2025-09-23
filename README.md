@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:20/09/2025
+# Date:23/09/2025
 ## Register Number:25017318
 ## Name:Darshini R
 ## Problem Title
@@ -37,6 +37,12 @@ Agriculture, FoodTech & Rural Development
 <h3>solution</h3>
 AgriMitra AI is a multi-modal, hyperlocal advisory ecosystem designed for small and marginal farmers. It provides personalized, real-time farming guidance using voice, AI, AR, and offline smart devices. Unlike traditional apps, it works even in low-connectivity areas and is fully accessible to low-literate farmers, delivering advice in their native dialects.Key components include these factors ,Creates a personalized AI profile for each farmer based on soil data, crop history, irrigation patterns, and local weather.Learns from each season to improve recommendations over time.Voice-First Advisory System include, Farmers interact using voice in their local language via mobile, smart radio, or kiosk.It is Missed-call and WhatsApp integration ensures zero typing and offline usability.Offline AgriMitra Box (Smart Kiosk) represents
 these factors Solar-powered, village-level device storing offline advisories, weather predictions, and crop recommendations.It Syncs data weekly to update AI models.AR-Based Crop Scanner represents Clip-on lens converts a smartphone camera into a diagnostic tool for pest and disease detection. AI + AR overlay provides visual and audio instructions.Input Bill Scanner & Fraud Detection: Farmers can scan purchase receipts from local shops.AI detects overpricing, wrong chemicals, or harmful input combinations and suggests alternatives.Gamified Reward System include Farmers earn points for following scientific advice, redeemable for inputs, discounts, or small incentives.It Encourages adoption of sustainable practices.It combines AI-powered recommendations, local language voice technology, and solar-powered offline devices to ensure that every farmer — regardless of literacy or tech access — receives tailored, trustworthy agricultural advice.
+
+
+##flowchart
+<img width="1152" height="845" alt="flowchart" src="https://github.com/user-attachments/assets/85bdbe11-6542-463b-9c3b-f9448326fc75" />
+
+ 
 
 
 ## Technical Approach
